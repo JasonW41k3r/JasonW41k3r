@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**JasonW41k3r/JasonW41k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![d2f147b379326456a2b4fcea28ea06fe4e910ce4](https://github.com/JasonW41k3r/README.md/assets/118796697/50d34ca2-e89d-4b16-8c3a-6e341a0d795d)
 
-Here are some ideas to get you started:
+Sun Yat-sen University (SYSU) School of Computer Science and Engineering
+- Major in Computer Science and Technology / Minor in Finance
+- [Microsoft] Microsoft Learn Student Ambassadors
+- [IEEE] IEEE Student Member
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @JasonW41k3r, a programming enthusiast from Sun Yat-sen University in China.
+- 👀 I’m interested in C Programming Language, football and music produce. What's more, I am fond of artificial intelligence, having some knowledge of Microsoft Azure Builds.
+- 🌱 I’m currently learning C Programming Language and ready to learn C++ and Java.
+- 💞️ I’m looking to collaborate on learning C Programming Language and know more programming strategy.
+- 📫 You can reach me by mailing noyer_rjs@163.com!
