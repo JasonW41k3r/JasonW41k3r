@@ -8,6 +8,5 @@ Sun Yat-sen University (SYSU) School of Computer Science and Engineering
 
 - 👋 Hi, I’m @JasonW41k3r, a programming enthusiast from Sun Yat-sen University in China.
 - 👀 I’m interested in C Programming Language, football and music produce. What's more, I am fond of artificial intelligence, having some knowledge of Microsoft Azure Builds.
-- 🌱 I’m currently learning C Programming Language and ready to learn C++ and Java.
-- 💞️ I’m looking to collaborate on learning C Programming Language and know more programming strategy.
+- 🌱 I’m currently learning C++, Java and Artificial Intelligence.
 - 📫 You can reach me by mailing noyer_rjs@163.com!
